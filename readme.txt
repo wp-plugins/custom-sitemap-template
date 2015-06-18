@@ -4,7 +4,7 @@ Donate link: http://www.divyanshiinfotech.com/
 Tags: wordpress, sitemap, template
 Requires at least: 4.2
 Tested up to: 4.2.2
-Stable tag: 1.0
+Stable tag: 1.0.1
 License: GPLv2 or later
 
 Plugin provides a custom sitemap template. You can fully customize your sitemap using plugin settings.

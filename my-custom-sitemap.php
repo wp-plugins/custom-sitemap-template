@@ -3,7 +3,7 @@
 Plugin Name: Custom Sitemap Template
 Description: Plugin provides a custom sitemap template. You can fully customize your sitemap using plugin settings.
 Plugin URI: http://www.divyanshiinfotech.com/
-Version: 1.0
+Version: 1.0.1
 Author: Anil Meena
 Author URI: http://www.anilmeena.com/
 License: GPLv2

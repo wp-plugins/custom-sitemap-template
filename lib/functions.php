@@ -1,6 +1,6 @@
 <?php
 global $wpdb;
-$cst_version = "1.0";
+$cst_version = "1.0.1";
 $cst_installed_ver = get_option( "cst_version" );
 if ( $cst_installed_ver != $cst_version ) {
 	update_option( "cst_version", $cst_version );
