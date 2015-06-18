@@ -38,13 +38,10 @@ Yes you can exclude any post/page/taxonomy by put its id in exclude named input 
 == Changelog ==
 
 = 1.0 =
+* Release Date: June 18, 2015
 * First version of plugin.
 
 == Upgrade Notice ==
 
 = 1.0 =
 This is first version of plugin.
-
-==Readme Generator== 
-
-This Readme file was generated using <a href = 'http://sudarmuthu.com/wordpress/wp-readme'>wp-readme</a>, which generates readme files for WordPress Plugins.
