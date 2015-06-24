@@ -24,6 +24,12 @@ Plugin provides a custom sitemap template. You can fully customize your sitemap 
 
 2. Sitemap page template view.
 
+3. screenshot1.png
+
+4. screenshot2.png
+
+5. screenshot3.png
+
 
 == Frequently Asked Questions ==
 
