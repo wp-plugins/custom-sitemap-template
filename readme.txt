@@ -19,16 +19,15 @@ Plugin provides a custom sitemap template. You can fully customize your sitemap 
 1. Upload \`custom-sitemap-template-plugin\` to the \`/wp-content/plugins/\` directory  
 2. Activate the plugin through the 'Plugins' menu in WordPress  
 3. Assign 'Custom Sitemap Template' on any page where you want to display sitemap.
+
+
 == Screenshots ==
-1. Sitemap plugin settings.
 
-2. Sitemap page template view.
+1. Sitemap plugin admin settings.
 
-3. screenshot1.png
+2. Sitemap page template view 1.
 
-4. screenshot2.png
-
-5. screenshot3.png
+3. Sitemap page template view 2.
 
 
 == Frequently Asked Questions ==
