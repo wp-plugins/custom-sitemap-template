@@ -43,7 +43,7 @@ Yes you can exclude any post/page/taxonomy by put its id in exclude named input 
 == Changelog ==
 
 = 1.0.1 =
-* Release Date: June 18, 2015
+* Release Date: June 30, 2015
 * Fixed null value bug.
 
 = 1.0 =
