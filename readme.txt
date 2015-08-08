@@ -1,9 +1,9 @@
 === Custom Sitemap Template ===
-Contributors: Anil Meena 
+Contributors: aniloxzin 
 Donate link: http://www.divyanshiinfotech.com/
 Tags: wordpress, sitemap, template
 Requires at least: 4.2
-Tested up to: 4.2.2
+Tested up to: 4.2.4
 Stable tag: 1.0.1
 License: GPLv2 or later
 
